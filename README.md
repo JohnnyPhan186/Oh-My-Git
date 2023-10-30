@@ -1,4 +1,4 @@
 # Oh-My-Git
 
 
-![oh my git](https://github.com/JohnnyPhan186/Oh-My-Git/assets/102921609/052257d6-88c0-48da-9437-19f0027b464b)
+![oh my git!](https://github.com/JohnnyPhan186/Oh-My-Git/assets/102921609/ad149379-cdab-43ab-ba5e-6a3544059725)
